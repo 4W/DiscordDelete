@@ -17,6 +17,7 @@ Do not share this token with anyone else, below is an image of how it should loo
   
   ![image](https://user-images.githubusercontent.com/59790234/112669626-39a43700-8e60-11eb-9ee0-ae461dedafad.png)
   - If it is a server, then copy the first set of numbers between / and /
+  
   ![image](https://user-images.githubusercontent.com/59790234/112669753-5b052300-8e60-11eb-96bd-86e229e6c277.png)
   - Now copy and paste the numbers into the input field for the channel ID
 

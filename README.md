@@ -4,8 +4,7 @@ DiscordDelete: a simple and easy tool for qucikly deleting discord messages on a
 ## How to use DiscordDelete
 1. Install python 3.8+, and install the dependencies
 
-2. Enter your discord token, then press enter - If you do not know how to find the token, view this [Youtube Video](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
-Do not share this token with anyone else, below is an image of how it should look like:
+2. Enter your discord token, then press enter - If you do not know how to find the token, view this [Youtube Video](https://www.youtube.com/watch?v=YEgFvgg7ZPI). Do not share this token with anyone else, below is an image of how it should look like:
 
 ![image](https://user-images.githubusercontent.com/59790234/112668825-3d838980-8e5f-11eb-9122-694292aafcfc.png)
 
